@@ -1,0 +1,14 @@
+
+http://url/?type=add&data=<any%20data>
+
+
+
+
+
+http://url/?type=delete&data=any data&password=<password>&id=<id>
+
+
+
+
+
+http://url/?type=edit&password=<password>&id=<id>
